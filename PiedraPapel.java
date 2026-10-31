@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CineU {
+public class PiedraPapel {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -21,10 +21,5 @@ public class CineU {
         } else {
             System.out.println("Empate");
         }
-
-
-
-
-
     }
 }
